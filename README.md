@@ -1,5 +1,5 @@
 # -_Homemade_-Password-Manager-and-Generator-with-cpp17-
-This is one of my portofolio projects. Here I made a console application via CodeBlocks::IDE 20.03. Please use all the files added in this repo.
+This is one of my portofolio projects. Here I made a console application via CodeBlocks::IDE 20.03. Please use all the files added in this repo, except for the .cbp file and the .gitignore file.
 
 The language in which the output in the code is written is romanian, not english. In a future update I will make the code english-compatible.
 
