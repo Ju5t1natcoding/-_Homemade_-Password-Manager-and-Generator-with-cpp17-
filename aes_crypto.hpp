@@ -1,4 +1,5 @@
 ///De instalat Crypto++ pentru utilizare
+///Install Crypto++ to use
 
 #pragma once
 #include "util_crypto.hpp"
@@ -59,3 +60,4 @@ string aes_decrypt_with_password_hex(const string &blob, const string &password)
 
     return recovered;
 }
+
